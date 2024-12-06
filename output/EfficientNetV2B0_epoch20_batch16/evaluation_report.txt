@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+           0     0.9545    0.8750    0.9130        24
+           1     0.9912    0.9912    0.9912       113
+           2     0.9529    0.9759    0.9643        83
+
+    accuracy                         0.9727       220
+   macro avg     0.9662    0.9474    0.9562       220
+weighted avg     0.9727    0.9727    0.9725       220
+
+The Cohen's Kappa Score is: 0.952937820878494
